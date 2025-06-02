@@ -22,3 +22,22 @@ Initial Thoughts/Hypotheses:
 
 - The business appears to have a good gross profit margin given the high gross income relative to cumulative cost.
 - The average unit price suggests a mix of low-cost, high-volume items and potentially some higher-value items.
+
+**2. Trend Analysis: Sales Year by Revenue & Forecast:**
+
+   - 2014 Revenue: $9,258.34
+   - 2015 Revenue: $10,369.54
+     
+Year-over-Year (YoY) Growth (2014 to 2015): (($10,369.54 - $9,258.34) / $9,258.34) * 100% = ~12.00% growth
+
+Observations:
+
+- A clear positive trend in revenue from 2014 to 2015. This indicates business growth.
+- The line graph for "Sales Year by Revenue" shows a generally upward slope, reinforcing the growth.
+- The "Forecast by Sales Year and Revenue" chart seems to show actuals (blue) largely meeting or slightly exceeding forecasts (green).
+  
+Insights & Hypotheses:
+
+- The 12% growth is a strong indicator of a healthy, expanding business.
+- What drove this growth? Was it increased unit sales, higher pricing, entry into new markets/regions, or new product introductions?
+- The accurate forecasting suggests a good understanding of market dynamics or a conservative forecasting approach. A deeper dive into forecast variance (actual vs. forecast deviation) would be beneficial.
